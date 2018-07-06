@@ -14,4 +14,6 @@ echo ("test2");
 
 function f_prova(){
   echo("prova");
+
+  echo;
 };
