@@ -9,3 +9,10 @@ echo("ciao");
 echo ("test1");
 
 echo ("test2");
+
+
+
+
+function f_master(){
+
+};
