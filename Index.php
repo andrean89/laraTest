@@ -6,3 +6,6 @@
  * Time: 12:47
  */
 echo("ciao");
+echo ("test1");
+
+echo ("test2");
