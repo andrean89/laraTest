@@ -8,11 +8,12 @@
 echo("ciao");
 echo ("test1");
 
-echo ("test2");
+echo ("test25");
 
 
 
+function f_prova(){
+  echo("prova");
 
-function f_master(){
-
+  echo;
 };
